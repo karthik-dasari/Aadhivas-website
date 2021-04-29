@@ -40,7 +40,7 @@
 <?php
     if( $posted ) 
     if($done)
-        echo "<script type='text/javascript'>alert('submitted successfully!')</script>";
+        echo "<script type='text/javascript'>alert('Thank you for your interest in Aadivas Foods. Our team will get back to you via call/email to share the quote.')</script>";
       else
         echo "<script type='text/javascript'>alert('failed!')</script>";
   ?>
@@ -214,7 +214,7 @@
                                                                                 </div>
                                                                                 <div class="megamenu-tier3-desc megamenu-tier3-desc-with-3tiers megamenu-hide">
                                                                                     <div class="megamenu-tier4">
-                                                                                        <div class="megamenu-tier3-desc-text aadivas-text-p3">With multi-industrial expertise and technology we drive our teams and partner relationships to deliver the best value to our customers via our vision and mission.</div>
+                                                                                        <div class="megamenu-tier3-desc-text aadivas-text-p3">With multi-industrial expertise and technology we drive our teams and partner relationships to deliver the best value to our customers via our vision and mission. With this vision and mission, our organisation is able to achieve more in just about every aspect of its operation. We are able to unlock our abilities to thrive with change, organisational growth potential and effective resource management. We believe our greatest asset is our people and thus with the right leadership in agriculture & export we are able to invest better in our customers, farmers and employees . </div>
                                                                                         <div class="megamenu-tier4-wrapper">
                                                                                             <div>
                                                                                                 <img class="megamenu-tier3-desc-img" src="../static/media/leadership.jpg"/>
@@ -284,7 +284,7 @@
                                                                             <li class="megamenu-tier3-list-item" role="menuitem">
                                                                                 
                                                                                 <div>
-                                                                                    <a class="megamenu-tier3-list-text aadivas-text-p3" href="products.html#cerealgrains">Wheat🌾</a>
+                                                                                    <a class="megamenu-tier3-list-text aadivas-text-p3" href="products.html#cerealgrains">Wheat</a>
                                                                                 </div>
                                                                                 <div class="megamenu-tier3-desc megamenu-tier3-desc-with-4tiers megamenu-hide">
                                                                                     <div class="megamenu-tier4">
@@ -302,7 +302,7 @@
                                                                             <li class="megamenu-tier3-list-item" role="menuitem">
                                                                                 
                                                                                 <div>
-                                                                                    <a class="megamenu-tier3-list-text aadivas-text-p3" href="products.html#cerealgrains">Rice🌾</a>
+                                                                                    <a class="megamenu-tier3-list-text aadivas-text-p3" href="products.html#cerealgrains">Rice</a>
                                                                                 </div>
                                                                                 <div class="megamenu-tier3-desc megamenu-tier3-desc-with-4tiers megamenu-hide">
                                                                                     <div class="megamenu-tier4">
@@ -320,7 +320,7 @@
                                                                             <li class="megamenu-tier3-list-item" role="menuitem">
                                                                                 
                                                                                 <div>
-                                                                                    <a class="megamenu-tier3-list-text aadivas-text-p3" href="products.html#cerealgrains">Corn /Maize🌽</a>
+                                                                                    <a class="megamenu-tier3-list-text aadivas-text-p3" href="products.html#cerealgrains">Corn /Maize</a>
                                                                                 </div>
                                                                                 <div class="megamenu-tier3-desc megamenu-tier3-desc-with-4tiers megamenu-hide">
                                                                                     <div class="megamenu-tier4">
@@ -356,7 +356,7 @@
                                                                             <li class="megamenu-tier3-list-item" role="menuitem">
                                                                                 
                                                                                 <div>
-                                                                                    <a class="megamenu-tier3-list-text aadivas-text-p3" href="products.html#vegetables">Green Chilli 🌶 </a>
+                                                                                    <a class="megamenu-tier3-list-text aadivas-text-p3" href="products.html#vegetables">Green Chilli </a>
                                                                                 </div>
                                                                                 <div class="megamenu-tier3-desc megamenu-tier3-desc-with-4tiers megamenu-hide">
                                                                                     <div class="megamenu-tier4">
@@ -407,7 +407,7 @@
                                                                             <li class="megamenu-tier3-list-item" role="menuitem">
                                                                                 
                                                                                 <div>
-                                                                                    <a class="megamenu-tier3-list-text aadivas-text-p3" href="products.html#vegetables">Brinjal 🍆</a>
+                                                                                    <a class="megamenu-tier3-list-text aadivas-text-p3" href="products.html#vegetables">Brinjal </a>
                                                                                 </div>
                                                                                 <div class="megamenu-tier3-desc megamenu-tier3-desc-with-4tiers megamenu-hide">
                                                                                     <div class="megamenu-tier4">
@@ -424,7 +424,7 @@
                                                                             <li class="megamenu-tier3-list-item" role="menuitem">
                                                                                 
                                                                                 <div>
-                                                                                    <a class="megamenu-tier3-list-text aadivas-text-p3" href="products.html#vegetables">Potato 🥔 </a>
+                                                                                    <a class="megamenu-tier3-list-text aadivas-text-p3" href="products.html#vegetables">Potato  </a>
                                                                                 </div>
                                                                                 <div class="megamenu-tier3-desc megamenu-tier3-desc-with-4tiers megamenu-hide">
                                                                                     <div class="megamenu-tier4">
@@ -441,7 +441,7 @@
                                                                             <li class="megamenu-tier3-list-item" role="menuitem">
                                                                                 
                                                                                 <div>
-                                                                                    <a class="megamenu-tier3-list-text aadivas-text-p3" href="products.html#vegetables">Cucumber 🥒 </a>
+                                                                                    <a class="megamenu-tier3-list-text aadivas-text-p3" href="products.html#vegetables">Cucumber  </a>
                                                                                 </div>
                                                                                 <div class="megamenu-tier3-desc megamenu-tier3-desc-with-4tiers megamenu-hide">
                                                                                     <div class="megamenu-tier4">
@@ -492,7 +492,7 @@
                                                                             <li class="megamenu-tier3-list-item" role="menuitem">
                                                                                 
                                                                                 <div>
-                                                                                    <a class="megamenu-tier3-list-text aadivas-text-p3" href="products.html#vegetables">Cabbage 🥬 </a>
+                                                                                    <a class="megamenu-tier3-list-text aadivas-text-p3" href="products.html#vegetables">Cabbage  </a>
                                                                                 </div>
                                                                                 <div class="megamenu-tier3-desc megamenu-tier3-desc-with-4tiers megamenu-hide">
                                                                                     <div class="megamenu-tier4">
@@ -509,7 +509,7 @@
                                                                             <li class="megamenu-tier3-list-item" role="menuitem">
                                                                                 
                                                                                 <div>
-                                                                                    <a class="megamenu-tier3-list-text aadivas-text-p3" href="products.html#vegetables">Cauliflower 🥦</a>
+                                                                                    <a class="megamenu-tier3-list-text aadivas-text-p3" href="products.html#vegetables">Cauliflower </a>
                                                                                 </div>
                                                                                 <div class="megamenu-tier3-desc megamenu-tier3-desc-with-4tiers megamenu-hide">
                                                                                     <div class="megamenu-tier4">
@@ -545,7 +545,7 @@
                                                                             <li class="megamenu-tier3-list-item" role="menuitem">
                                                                                 
                                                                                 <div>
-                                                                                    <a class="megamenu-tier3-list-text aadivas-text-p3" href="products.html#fruits">Litchi 🍒</a>
+                                                                                    <a class="megamenu-tier3-list-text aadivas-text-p3" href="products.html#fruits">Litchi </a>
                                                                                 </div>
                                                                                 <div class="megamenu-tier3-desc megamenu-tier3-desc-with-4tiers megamenu-hide">
                                                                                     <div class="megamenu-tier4">
@@ -563,7 +563,7 @@
                                                                             <li class="megamenu-tier3-list-item" role="menuitem">
                                                                                 
                                                                                 <div>
-                                                                                    <a class="megamenu-tier3-list-text aadivas-text-p3" href="products.html#fruits">Mangoes 🥭</a>
+                                                                                    <a class="megamenu-tier3-list-text aadivas-text-p3" href="products.html#fruits">Mangoes </a>
                                                                                 </div>
                                                                                 <div class="megamenu-tier3-desc megamenu-tier3-desc-with-4tiers megamenu-hide">
                                                                                     <div class="megamenu-tier4">
@@ -599,7 +599,7 @@
                                                                             <li class="megamenu-tier3-list-item" role="menuitem">
                                                                                 
                                                                                 <div>
-                                                                                    <a class="megamenu-tier3-list-text aadivas-text-p3" href="products.html#nuts">Groundnuts 🥜</a>
+                                                                                    <a class="megamenu-tier3-list-text aadivas-text-p3" href="products.html#nuts">Groundnuts </a>
                                                                                 </div>
                                                                                 <div class="megamenu-tier3-desc megamenu-tier3-desc-with-4tiers megamenu-hide">
                                                                                     <div class="megamenu-tier4">
@@ -744,16 +744,16 @@
 
                                                 <div class="megamenu-tier2-desc-mobile hide">
                                                     <div class="megamenu-tier3-item-mobile">
-                                                        <a href="products.html#cerealgrains" class="megamenu-tier3-mobile-text aadivas-text-p2">Wheat🌾</a>
+                                                        <a href="products.html#cerealgrains" class="megamenu-tier3-mobile-text aadivas-text-p2">Wheat</a>
                                                     </div>
 
                                                     <div class="megamenu-tier3-item-mobile">
-                                                        <a href="products.html#cerealgrains" class="megamenu-tier3-mobile-text aadivas-text-p2">Rice🌾</a>
+                                                        <a href="products.html#cerealgrains" class="megamenu-tier3-mobile-text aadivas-text-p2">Rice</a>
 
                                                     </div>
 
                                                     <div class="megamenu-tier3-item-mobile">
-                                                        <a href="products.html#cerealgrains" class="megamenu-tier3-mobile-text aadivas-text-p2">Corn /Maize🌽 </a>
+                                                        <a href="products.html#cerealgrains" class="megamenu-tier3-mobile-text aadivas-text-p2">Corn /Maize </a>
 
                                                     </div>
                                                 </div>
@@ -767,7 +767,7 @@
 
                                                 <div class="megamenu-tier2-desc-mobile hide">
                                                     <div class="megamenu-tier3-item-mobile">
-                                                        <a href="products.html#vegetables" class="megamenu-tier3-mobile-text aadivas-text-p2">Green Chilli 🌶 </a>
+                                                        <a href="products.html#vegetables" class="megamenu-tier3-mobile-text aadivas-text-p2">Green Chilli </a>
                                                     </div>
                                                     <div class="megamenu-tier3-item-mobile">
                                                         <a href="products.html#vegetables" class="megamenu-tier3-mobile-text aadivas-text-p2">Snake Beans </a>
@@ -776,13 +776,13 @@
                                                         <a href="products.html#vegetables" class="megamenu-tier3-mobile-text aadivas-text-p2">Okra (ladies finger) </a>
                                                     </div>
                                                     <div class="megamenu-tier3-item-mobile">
-                                                        <a href="products.html#vegetables" class="megamenu-tier3-mobile-text aadivas-text-p2">Brinjal 🍆</a>
+                                                        <a href="products.html#vegetables" class="megamenu-tier3-mobile-text aadivas-text-p2">Brinjal </a>
                                                     </div>
                                                     <div class="megamenu-tier3-item-mobile">
-                                                        <a href="products.html#vegetables" class="megamenu-tier3-mobile-text aadivas-text-p2">Potato 🥔 </a>
+                                                        <a href="products.html#vegetables" class="megamenu-tier3-mobile-text aadivas-text-p2">Potato  </a>
                                                     </div>
                                                     <div class="megamenu-tier3-item-mobile">
-                                                        <a href="products.html#vegetables" class="megamenu-tier3-mobile-text aadivas-text-p2">Cucumber 🥒 </a>
+                                                        <a href="products.html#vegetables" class="megamenu-tier3-mobile-text aadivas-text-p2">Cucumber  </a>
                                                     </div>
                                                     <div class="megamenu-tier3-item-mobile">
                                                         <a href="products.html#vegetables" class="megamenu-tier3-mobile-text aadivas-text-p2">Green Peas </a>
@@ -791,10 +791,10 @@
                                                         <a href="products.html#vegetables" class="megamenu-tier3-mobile-text aadivas-text-p2">Bottle Gourd </a>
                                                     </div>
                                                     <div class="megamenu-tier3-item-mobile">
-                                                        <a href="products.html#vegetables" class="megamenu-tier3-mobile-text aadivas-text-p2">Cabbage 🥬 </a>
+                                                        <a href="products.html#vegetables" class="megamenu-tier3-mobile-text aadivas-text-p2">Cabbage  </a>
                                                     </div>
                                                     <div class="megamenu-tier3-item-mobile">
-                                                        <a href="products.html#vegetables" class="megamenu-tier3-mobile-text aadivas-text-p2">Cauliflower 🥦</a>
+                                                        <a href="products.html#vegetables" class="megamenu-tier3-mobile-text aadivas-text-p2">Cauliflower </a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -807,10 +807,10 @@
 
                                                 <div class="megamenu-tier2-desc-mobile hide">
                                                     <div class="megamenu-tier3-item-mobile">
-                                                        <a href="products.html#fruits" class="megamenu-tier3-mobile-text aadivas-text-p2">Litchi🍒</a>  
+                                                        <a href="products.html#fruits" class="megamenu-tier3-mobile-text aadivas-text-p2">Litchi</a>  
                                                     </div>
                                                     <div class="megamenu-tier3-item-mobile">
-                                                        <a href="products.html#fruits" class="megamenu-tier3-mobile-text aadivas-text-p2">Mangoes🥭</a>
+                                                        <a href="products.html#fruits" class="megamenu-tier3-mobile-text aadivas-text-p2">Mangoes</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -823,7 +823,7 @@
 
                                                 <div class="megamenu-tier2-desc-mobile hide">
                                                     <div class="megamenu-tier3-item-mobile">
-                                                        <a href="products.html#nuts" class="megamenu-tier3-mobile-text aadivas-text-p2">Groundnuts🥜 </a>  
+                                                        <a href="products.html#nuts" class="megamenu-tier3-mobile-text aadivas-text-p2">Groundnuts </a>  
                                                     </div>
                                                 </div>
                                             </div>
@@ -1129,7 +1129,7 @@
                         <div class="col-md-12">
                           <div class="form-group">
                             <label for="form_message">Message *</label>
-                            <textarea id="form_message" name="message" class="form-control" placeholder="Leave a message for us *" rows="4" required="required" data-error="Please,leave us a message."></textarea>
+                            <textarea id="form_message" name="message" class="form-control" placeholder="Leave a message for us *" rows="4" required="required" data-error="Please mention the product of interest, quantity and packaging requirements."></textarea>
                             <div class="help-block with-errors"></div>
                           </div>
                         </div>
@@ -1187,6 +1187,9 @@
                             <h6 class="footer-title">Aadivas Foods</h6>
                             <div class="info-content">
                                 <ul class="list-item">
+                                    <li class="list-info">
+                                        <a href="home.html" class="aadivas-text-p4 footer-link" target="_self">Home</a>
+                                    </li>
                                     <li class="list-info">
                                         <a href="about_us.html" class="aadivas-text-p4 footer-link" target="_self">About Us</a>
                                     </li>
