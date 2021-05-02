@@ -13,6 +13,12 @@
  *  See the License for the specific language governing permissions and
  *  limitations under the License.
  */
+ .padding0{
+     height: 20px;
+ }
+ .padding1{
+     height: 40px;
+ }
  .cmp-tabs__tablist {
     display: flex;
     flex-wrap: wrap;
@@ -196,6 +202,7 @@
       .aadivas-text-p3{
           font-size: 14px;
       }
+      
   }
   @media only screen and (min-width: 1200px) {
       .aadivas-text-p1{
@@ -511,6 +518,14 @@
           width: 40%;
           max-width: 625px;
       }
+      .tile-slider .tile-text-container p {
+        /* display: -webkit-box; */
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        height: 170px !important;
+    }
       .aadivas-banner .aadivas-banner__eyebrow {
           display: none;
       }

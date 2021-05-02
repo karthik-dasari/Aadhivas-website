@@ -1129,7 +1129,7 @@
                         <div class="col-md-12">
                           <div class="form-group">
                             <label for="form_message">Message *</label>
-                            <textarea id="form_message" name="message" class="form-control" placeholder="Leave a message for us *" rows="4" required="required" data-error="Please mention the product of interest, quantity and packaging requirements."></textarea>
+                            <textarea id="form_message" name="message" class="form-control" placeholder="Please mention the product of interest, quantity and packaging requirements *" rows="4" required="required"></textarea>
                             <div class="help-block with-errors"></div>
                           </div>
                         </div>
@@ -1204,10 +1204,17 @@
                                 </ul>
                             </div>
                         </div>
+                        <div class="blog-content">
+                            <h6 class="footer-title">Our Office</h6>
+                            <p class="aadivas-text-p4 ">AADIVAS FOODS PRIVATE LIMITED <br>
+                                C/O Madhura Ekka, S/o Benedik Ekka, Karamdipa, GUMLA <br>
+                                RANCHI, Jharkhand. 835207 <br>
+                                Phone: +917736875505</p>
+                        </div>
                     </div>
                     <div class="copyright aadivas-text-p5">
                         <div>
-                            <p class="copyright-content">© 2021 Aadivas Foods All Rights Reserved.</p>
+                            <p class="copyright-content">© 2021 Aadivas Foods Private Limited. All Rights Reserved.</p>
                         </div>
                     </div>
                 </div>
