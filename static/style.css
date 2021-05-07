@@ -13,12 +13,6 @@
  *  See the License for the specific language governing permissions and
  *  limitations under the License.
  */
- .padding0{
-     height: 20px;
- }
- .padding1{
-     height: 40px;
- }
  .cmp-tabs__tablist {
     display: flex;
     flex-wrap: wrap;
@@ -202,7 +196,6 @@
       .aadivas-text-p3{
           font-size: 14px;
       }
-      
   }
   @media only screen and (min-width: 1200px) {
       .aadivas-text-p1{
@@ -518,14 +511,6 @@
           width: 40%;
           max-width: 625px;
       }
-      .tile-slider .tile-text-container p {
-        /* display: -webkit-box; */
-        -webkit-line-clamp: 3;
-        -webkit-box-orient: vertical;
-        overflow: hidden;
-        text-overflow: ellipsis;
-        height: 170px !important;
-    }
       .aadivas-banner .aadivas-banner__eyebrow {
           display: none;
       }
@@ -11753,6 +11738,16 @@
   }
   /* Mobile */
   @media ( max-width :767px) {
+    .col-lg-6 .tile-slider .col-lg-3, .col-lg-6 .tile-slider .col-lg-3+.col-lg-6, .col-md-6 .tile-slider .col-md-3 {
+        width: 100% !important;
+        margin-bottom: 20px !important ;
+    }
+    .cardp{
+        height: 50px !important;
+    }
+    .cardp0{
+        height:230px !important;
+    }
       .two-column-download-wrapper li {
           float: none;
           width: 100%;
@@ -11762,6 +11757,12 @@
           margin-right: 15px;
       }
       
+  }
+  @media(min-width:768px)
+  {
+    .cardp{
+        height: 90px !important;
+    }
   }
   /* ipad - portrait */
   @media ( min-width : 768px) and (orientation: portrait) and
